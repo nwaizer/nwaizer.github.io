@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Adding rsync to goland flatpak
+cover-img: https://blogs.gnome.org/mclasen/files/2018/02/flatpak.png
 tags: [go, redfish]
 ---
-![flatpak](https://blogs.gnome.org/mclasen/files/2018/02/flatpak.png)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GkgPIJp8_30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 So ever since I got this work laptop, with Red Hat Enterprise Linux pre-installed, I was introduced to flatpaks.
